@@ -1,0 +1,4 @@
+name: SkyWarsPlugin
+version: '1.0-SNAPSHOT'
+main: me.mubioh.skyWarsPlugin.SkyWarsPlugin
+api-version: '1.21'
